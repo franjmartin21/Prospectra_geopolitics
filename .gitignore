@@ -1,0 +1,51 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+env/
+*.ipynb_checkpoints
+
+# Databricks
+.databricks/
+*.dbc
+
+# Secrets & credentials
+.env
+.env.*
+*.pem
+*.key
+secrets/
+credentials/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Reports — track structure but not generated content (optional: remove if you want reports versioned)
+# reports/**/*.md
+
+# Node (if any tooling added later)
+node_modules/
