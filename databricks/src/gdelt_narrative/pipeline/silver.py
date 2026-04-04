@@ -21,8 +21,17 @@ PAIRS = [
     ("IN_CN", "IN", "CH"),
 ]
 
-# RU_EU: Russia (RS) + any of these major EU economies
-EU_FIPS = ["EI", "FR", "GM", "IT", "PL"]
+# EU approximation: any article mentioning one of these major EU economies
+# qualifies as "EU" for RU_EU, US_EU, and CN_EU pairs.
+# FIPS codes: GM=Germany, FR=France, IT=Italy, SP=Spain, PL=Poland, EI=Ireland
+EU_FIPS = ["GM", "FR", "IT", "SP", "PL", "EI"]
+
+# Multi-country EU pairs: (pair_id, other_country_fips)
+EU_PAIRS = [
+    ("RU_EU", "RS"),   # Russia
+    ("US_EU", "US"),   # United States
+    ("CN_EU", "CH"),   # China
+]
 
 # COMMAND ----------
 
@@ -77,8 +86,10 @@ def silver_country_pairs():
     # Drop articles with fewer than 2 country mentions
     df = df.filter(F.size(F.col("country_codes")) >= 2)
 
-    # --- Build matched_pairs column via SQL CASE logic ---
+    # --- Build matched_pairs column ---
     pair_cases = []
+
+    # Simple bilateral pairs
     for pair_id, fips_a, fips_b in PAIRS:
         pair_cases.append(
             F.when(
@@ -88,10 +99,11 @@ def silver_country_pairs():
             )
         )
 
-    # RU_EU: RS + any EU member
+    # EU multi-country pairs: other_country + any EU member qualifies
     eu_check = " OR ".join([f"array_contains(country_codes, '{c}')" for c in EU_FIPS])
-    ru_eu_match = F.array_contains(F.col("country_codes"), "RS") & F.expr(f"({eu_check})")
-    pair_cases.append(F.when(ru_eu_match, F.lit("RU_EU")))
+    for pair_id, other_fips in EU_PAIRS:
+        eu_match = F.array_contains(F.col("country_codes"), other_fips) & F.expr(f"({eu_check})")
+        pair_cases.append(F.when(eu_match, F.lit(pair_id)))
 
     df = df.withColumn("matched_pairs", F.array_compact(F.array(*pair_cases)))
     df = df.filter(F.size(F.col("matched_pairs")) > 0)

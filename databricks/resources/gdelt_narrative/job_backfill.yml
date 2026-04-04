@@ -1,0 +1,35 @@
+resources:
+  jobs:
+    gdelt_narrative_backfill:
+      name: gdelt-narrative-backfill
+
+      # Manual trigger only — no schedule
+      tasks:
+        - task_key: gdelt-backfill-extract
+          notebook_task:
+            notebook_path: ${workspace.file_path}/src/gdelt_narrative/extract/gdelt_backfill
+            base_parameters:
+              start_date: "2022-04-01"
+              end_date:   ""          # empty = yesterday UTC
+              hours:      "0,6,12,18"
+          environment_key: default
+          timeout_seconds: 21600     # 6 hours max
+
+        - task_key: gdelt-pipeline-full-refresh
+          depends_on:
+            - task_key: gdelt-backfill-extract
+          pipeline_task:
+            pipeline_id: ${resources.pipelines.gdelt_narrative_pipeline.id}
+            full_refresh: true
+
+      environments:
+        - environment_key: default
+          spec:
+            client: "2"
+            dependencies:
+              - requests
+
+      tags:
+        project: geopolitics
+        pipeline: gdelt-narrative
+        type: backfill
