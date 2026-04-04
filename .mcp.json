@@ -7,7 +7,7 @@
       ],
       "defer_loading": true,
       "env": {
-        "DATABRICKS_CONFIG_PROFILE": "DEFAULT"
+        "DATABRICKS_CONFIG_PROFILE": "dbc-2faae908-ade9"
       }
     },
     "google-workspace": {
