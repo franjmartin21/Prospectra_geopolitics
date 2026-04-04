@@ -1,0 +1,39 @@
+resources:
+  jobs:
+    gdelt_narrative_daily:
+      name: gdelt-narrative-daily
+
+      schedule:
+        quartz_cron_expression: "0 0 6 * * ?"
+        timezone_id: UTC
+        pause_status: UNPAUSED
+
+      tasks:
+        - task_key: gdelt-extract
+          notebook_task:
+            notebook_path: ${workspace.file_path}/src/gdelt_narrative/extract/gdelt_extract.py
+            base_parameters:
+              run_date: "{{job.start_time.iso_date}}"
+          environment_key: default
+          timeout_seconds: 3600
+
+        - task_key: gdelt-pipeline-trigger
+          depends_on:
+            - task_key: gdelt-extract
+          pipeline_task:
+            pipeline_id: ${resources.pipelines.gdelt_narrative_pipeline.id}
+            full_refresh: false
+
+      environments:
+        - environment_key: default
+          spec:
+            client: "1"
+            dependencies:
+              - requests
+
+      email_notifications:
+        no_alert_for_skipped_runs: true
+
+      tags:
+        project: geopolitics
+        pipeline: gdelt-narrative

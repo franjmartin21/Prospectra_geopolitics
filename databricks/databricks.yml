@@ -1,0 +1,27 @@
+bundle:
+  name: gdelt-narrative-shift
+
+variables:
+  catalog:
+    default: geopolitics
+  schema:
+    default: gdelt_narrative
+  volume_path:
+    default: /Volumes/geopolitics/gdelt_narrative/raw_gkg
+  notification_email:
+    default: ""
+
+include:
+  - resources/**/*.yml
+
+targets:
+  dev:
+    mode: development
+    default: true
+    workspace:
+      host: https://dbc-2faae908-ade9.cloud.databricks.com
+
+  prod:
+    mode: production
+    workspace:
+      host: https://dbc-2faae908-ade9.cloud.databricks.com

@@ -1,0 +1,20 @@
+resources:
+  pipelines:
+    gdelt_narrative_pipeline:
+      name: gdelt-narrative-pipeline
+      catalog: ${var.catalog}
+      schema: ${var.schema}
+      serverless: true
+      channel: CURRENT
+      continuous: false
+
+      libraries:
+        - notebook:
+            path: ${workspace.file_path}/src/gdelt_narrative/pipeline/bronze.py
+        - notebook:
+            path: ${workspace.file_path}/src/gdelt_narrative/pipeline/silver.py
+        - notebook:
+            path: ${workspace.file_path}/src/gdelt_narrative/pipeline/gold.py
+
+      configuration:
+        pipelines.reset.allowed: "true"
