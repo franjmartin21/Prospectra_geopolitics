@@ -19,18 +19,26 @@ PAIRS = [
     ("SA_US", "SA", "US"),
     ("SA_CN", "SA", "CH"),
     ("IN_CN", "IN", "CH"),
+    # Spain bilateral pairs (FIPS code: SP)
+    ("SP_RU", "SP", "RS"),
+    ("SP_CN", "SP", "CH"),
+    ("SP_US", "SP", "US"),
 ]
 
 # EU approximation: any article mentioning one of these major EU economies
-# qualifies as "EU" for RU_EU, US_EU, and CN_EU pairs.
+# qualifies as "EU" for bloc-level pairs (RU_EU, US_EU, CN_EU, SP_EU).
 # FIPS codes: GM=Germany, FR=France, IT=Italy, SP=Spain, PL=Poland, EI=Ireland
 EU_FIPS = ["GM", "FR", "IT", "SP", "PL", "EI"]
 
-# Multi-country EU pairs: (pair_id, other_country_fips)
+# EU_FIPS excluding Spain — used for SP_EU so we don't match Spain with itself
+EU_FIPS_NO_SP = ["GM", "FR", "IT", "PL", "EI"]
+
+# Multi-country EU pairs: (pair_id, other_country_fips, eu_fips_list)
 EU_PAIRS = [
-    ("RU_EU", "RS"),   # Russia
-    ("US_EU", "US"),   # United States
-    ("CN_EU", "CH"),   # China
+    ("RU_EU", "RS",  EU_FIPS),       # Russia vs EU bloc
+    ("US_EU", "US",  EU_FIPS),       # US vs EU bloc
+    ("CN_EU", "CH",  EU_FIPS),       # China vs EU bloc
+    ("SP_EU", "SP",  EU_FIPS_NO_SP), # Spain vs rest of EU (intra-EU tensions)
 ]
 
 # COMMAND ----------
@@ -99,9 +107,9 @@ def silver_country_pairs():
             )
         )
 
-    # EU multi-country pairs: other_country + any EU member qualifies
-    eu_check = " OR ".join([f"array_contains(country_codes, '{c}')" for c in EU_FIPS])
-    for pair_id, other_fips in EU_PAIRS:
+    # EU multi-country pairs: other_country + any member of the pair's EU list qualifies
+    for pair_id, other_fips, eu_list in EU_PAIRS:
+        eu_check = " OR ".join([f"array_contains(country_codes, '{c}')" for c in eu_list])
         eu_match = F.array_contains(F.col("country_codes"), other_fips) & F.expr(f"({eu_check})")
         pair_cases.append(F.when(eu_match, F.lit(pair_id)))
 
