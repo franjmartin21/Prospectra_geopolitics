@@ -144,7 +144,18 @@ This is how we build a track record and improve the framework.
 
 ---
 
-## 8. CORPORATE INFRASTRUCTURE
+## 8. TECHNICAL INFRASTRUCTURE
+
+| Resource | Details |
+|---|---|
+| **GitHub repo** | https://github.com/franjmartin21/Prospectra_geopolitics |
+| **Databricks workspace** | https://dbc-2faae908-ade9.cloud.databricks.com (profile: `dbc-2faae908-ade9`) |
+| **CEO email** | ceo@prospectra.earth |
+| **Bolo email** | franjmartin21@gmail.com |
+
+---
+
+## 9. CORPORATE INFRASTRUCTURE
 
 **Legal entity:** Prospectra Inc. (Delaware C-Corp, incorporated March 14, 2026)
 - On hold from original mining AI mission
