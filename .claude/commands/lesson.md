@@ -1,6 +1,8 @@
 Deliver today's geopolitics & investment lesson.
 
 Steps:
+0. **Quest gate check:** Read `PROGRESS.md`. If any lesson shows "OPEN — Quiz Pending", do NOT deliver the next lesson. Instead, tell Bolo the previous lesson is unverified and they must run `/quiz` to pass it before the next lesson unlocks. The only exception: if Bolo explicitly invokes the lesson with a specific topic override, deliver it as an untracked bonus session (does not count toward XP or curriculum progress).
+
 1. Check `reports/daily_lessons/` to find which lessons have already been delivered (by filename), and determine the next topic from the curriculum sequence in CLAUDE.md.
 2. Deliver a structured 15-20 minute lesson on that topic following the Socratic method: explain the concept clearly, give a historical example, then connect it to a current investment implication (macro, sector, or asset class).
 3. End with:
