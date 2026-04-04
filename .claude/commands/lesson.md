@@ -9,3 +9,5 @@ Steps:
 4. Save the full lesson to `reports/daily_lessons/` with filename `YYYY-MM-DD_<topic-slug>.md` using today's date, following the report format defined in CLAUDE.md.
 
 Be a rigorous but engaging tutor. Challenge assumptions. Make it feel like a seminar, not a textbook.
+
+5. After saving, send the full lesson to Bolo via email: from ceo@prospectra.earth to franjmartin21@gmail.com. Subject: `Lesson [N]: [Topic Title]`. The email body is the full lesson content.

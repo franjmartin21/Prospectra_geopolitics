@@ -10,3 +10,5 @@ Steps:
 4. Save the full briefing to `reports/weekly_lectures/` with filename `YYYY-MM-DD_weekly_briefing.md` using today's date, following the report format in CLAUDE.md.
 
 Be analytical, not journalistic. The audience understands markets and wants actionable geopolitical intelligence.
+
+5. After saving, send the full briefing to Bolo via email: from ceo@prospectra.earth to franjmartin21@gmail.com. Subject: `Weekly Geopolitical Briefing — [DATE]`. The email body is the full briefing content.
