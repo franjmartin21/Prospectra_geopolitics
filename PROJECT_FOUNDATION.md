@@ -171,7 +171,7 @@ This is how we build a track record and improve the framework.
 
 ---
 
-## 9. WHAT SUCCESS LOOKS LIKE — YEAR 1
+## 10. WHAT SUCCESS LOOKS LIKE — YEAR 1
 
 - 12+ lessons completed, covering the full curriculum
 - 52 weekly briefings delivered and stored
