@@ -11,4 +11,4 @@ Steps:
 
 Be analytical, not journalistic. The audience understands markets and wants actionable geopolitical intelligence.
 
-5. After saving, send the full briefing to Bolo via email: from ceo@prospectra.earth to franjmartin21@gmail.com. Subject: `Weekly Geopolitical Briefing — [DATE]`. The email body is the full briefing content.
+5. After saving, send the full briefing to Bolo via email: from ceo@prospectra.earth to franjmartin21@gmail.com. Subject: `Weekly Geopolitical Briefing — [DATE]`. Send as HTML (body_format: "html"). Use clean HTML formatting: `<h2>` for event titles, `<strong>` for labels like "What happened" and verdict tags, `<ul>`/`<li>` for investment implications, `<hr>` between sections. Make it scannable — Bolo should be able to read it on his phone.

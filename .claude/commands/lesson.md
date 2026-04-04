@@ -10,4 +10,4 @@ Steps:
 
 Be a rigorous but engaging tutor. Challenge assumptions. Make it feel like a seminar, not a textbook.
 
-5. After saving, send the full lesson to Bolo via email: from ceo@prospectra.earth to franjmartin21@gmail.com. Subject: `Lesson [N]: [Topic Title]`. The email body is the full lesson content.
+5. After saving, send the full lesson to Bolo via email: from ceo@prospectra.earth to franjmartin21@gmail.com. Subject: `Lesson [N]: [Topic Title]`. Send as HTML (body_format: "html"). Use clean HTML formatting: `<h2>` for section headers, `<strong>` for key terms and concepts, `<blockquote>` for historical quotes or examples, `<ul>`/`<li>` for reflection questions and Databricks angles, `<hr>` between major sections. Make it feel like a well-designed briefing document, not a wall of text.
