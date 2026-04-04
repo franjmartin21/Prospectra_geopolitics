@@ -68,7 +68,9 @@ If the analytical framework produces consistent signal and the Databricks build 
 
 ## 4. DATABRICKS PROJECT ARCHITECTURE
 
-### Phase 1 — Foundation (Months 1–2)
+**Timeline: 3 months. Not 2 years. The pace is aggressive by design.**
+
+### Phase 1 — Foundation (Weeks 1–3)
 **Goal:** Get data flowing. Prove the pipeline works.
 
 | Pipeline | Data Source | Output |
@@ -78,7 +80,7 @@ If the analytical framework produces consistent signal and the Databricks build 
 | News Sentiment | GDELT GKG (Global Knowledge Graph) | Sentiment scores by theme and geography |
 | Correlation Engine | Internal | Event signal → asset price lag analysis |
 
-### Phase 2 — Intelligence (Months 2–4)
+### Phase 2 — Intelligence (Weeks 4–8)
 **Goal:** Turn data into signals.
 
 | Component | Description |
@@ -88,12 +90,12 @@ If the analytical framework produces consistent signal and the Databricks build 
 | Regime Change Detector | Identifies structural shifts in geopolitical relationships |
 | Investment Signal Generator | Translates risk scores into directional views |
 
-### Phase 3 — Platform (Month 4+, conditional on Goal 3)
-**Goal:** Package for external use.
+### Phase 3 — Platform (Weeks 9–12)
+**Goal:** Package for use and evaluate commercial viability.
 
-- Productized dashboards
-- API layer for signal delivery
-- Client-facing reporting
+- Productized dashboards (Databricks AI/BI)
+- Signal delivery mechanism
+- Track record documented and auditable
 
 ---
 
@@ -120,13 +122,18 @@ Delivered via `/lesson` — one topic per session, in sequence. CEO decides when
 
 ## 6. OPERATING RHYTHM
 
+**Pace: aggressive. 3-month window to learn, build, and generate real signal.**
+
 | Cadence | Activity | Command |
 |---|---|---|
-| Per session | Lesson on next curriculum topic | `/lesson` |
+| Every 1–2 days | Lesson on next curriculum topic (full 12-lesson curriculum in ~3 weeks) | `/lesson` |
 | Weekly | Geopolitical intelligence briefing | `/briefing` |
-| On demand | Deep dive on specific topic | `/deepdive <topic>` |
-| Monthly | Portfolio thesis review — what are we positioned for and why | CEO-initiated |
-| Quarterly | Framework audit — are our calls working? Where are we wrong? | CEO-initiated |
+| On demand | Deep dive on specific topic — CEO triggers when events warrant | `/deepdive <topic>` |
+| Bi-weekly | Portfolio thesis review | CEO-initiated |
+| Monthly | Framework audit | CEO-initiated |
+| Weekly | Databricks build session — CEO directs next pipeline task | `/databricks` |
+
+The CEO does not wait for Bolo to ask. If a lesson is overdue, deliver it. If the Databricks build is behind the learning, direct Bolo to catch up. The 3-month clock is always running.
 
 ---
 
