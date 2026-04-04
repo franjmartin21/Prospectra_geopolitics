@@ -11,5 +11,36 @@
         ]
       }
     ]
+  },
+  "permissions": {
+    "allow": [
+      "mcp__claude_ai_Gmail__gmail_get_profile",
+      "mcp__claude_ai_Gmail__gmail_search_messages",
+      "mcp__claude_ai_Gmail__gmail_read_message",
+      "mcp__claude_ai_Gmail__gmail_read_thread",
+      "mcp__claude_ai_Gmail__gmail_list_labels",
+      "mcp__claude_ai_Gmail__gmail_list_drafts",
+      "mcp__claude_ai_Gmail__gmail_create_draft",
+      "mcp__claude_ai_Google_Calendar__gcal_list_calendars",
+      "mcp__claude_ai_Google_Calendar__gcal_list_events",
+      "mcp__claude_ai_Google_Calendar__gcal_get_event",
+      "mcp__claude_ai_Google_Calendar__gcal_create_event",
+      "mcp__claude_ai_Google_Calendar__gcal_update_event",
+      "mcp__claude_ai_Google_Calendar__gcal_respond_to_event",
+      "Bash(git pull*)",
+      "Bash(git push*)",
+      "Bash(git add*)",
+      "Bash(git commit*)",
+      "Bash(git status*)",
+      "Bash(git log*)",
+      "Bash(git diff*)",
+      "Write(/Users/francisco/Trabajo/Proyectos/Prospectra_geopolitics/*)",
+      "Edit(/Users/francisco/Trabajo/Proyectos/Prospectra_geopolitics/*)",
+      "Read(/Users/francisco/Trabajo/Proyectos/Prospectra_geopolitics/*)",
+      "WebSearch(*)",
+      "WebFetch(*)",
+      "Glob(*)",
+      "Grep(*)"
+    ]
   }
 }
