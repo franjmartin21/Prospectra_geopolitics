@@ -9,6 +9,15 @@
       "env": {
         "DATABRICKS_CONFIG_PROFILE": "DEFAULT"
       }
+    },
+    "google-workspace": {
+      "command": "/Users/francisco/Trabajo/google_workspace_mcp/.venv/bin/python",
+      "args": [
+        "/Users/francisco/Trabajo/google_workspace_mcp/main.py"
+      ],
+      "env": {
+        "GOOGLE_ACCOUNT_EMAIL": "ceo@prospectra.earth"
+      }
     }
   }
 }
