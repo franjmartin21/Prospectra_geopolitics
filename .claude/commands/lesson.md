@@ -10,6 +10,6 @@ Steps:
 
 Be a rigorous but engaging tutor. Challenge assumptions. Make it feel like a seminar, not a textbook.
 
-5. Update `ASSIGNMENTS.md` — add any new reading assignments, Databricks tasks, and reflection questions from this lesson. Mark previously completed items if applicable. Keep it as the single source of truth.
+5. Create a new assignments file at `assignments/YYYY-MM-DD_assignments.md` with all reading assignments, Databricks tasks, and reflection questions from this lesson. Each session gets its own dated file.
 
 6. After saving, send the full lesson to Bolo via email: from ceo@prospectra.earth to franjmartin21@gmail.com. Subject: `Lesson [N]: [Topic Title]`. Send as HTML (body_format: "html"). Use clean HTML formatting: `<h2>` for section headers, `<strong>` for key terms and concepts, `<blockquote>` for historical quotes or examples, `<ul>`/`<li>` for reflection questions and Databricks angles, `<hr>` between major sections. Make it feel like a well-designed briefing document, not a wall of text.
