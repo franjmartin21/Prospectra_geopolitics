@@ -54,8 +54,9 @@
 ---
 
 ### TRACK 2 — INTEL (Max: ~1,500 XP)
-*Quest opens when CEO logs a recommendation. Closes at resolution date.*
-*150 XP = right call + right reason. 75 XP = right outcome + wrong reason. 25 XP = wrong + honest post-mortem. 0 XP = ignored.*
+*Quest opens when CEO logs a recommendation. Closes at resolution date (6–18 months default — we are investors, not traders).*
+*150 XP = right call + right reason. 75 XP = right outcome + wrong reason. 25 XP = wrong + honest post-mortem. 0 XP = ignored or no post-mortem.*
+*Calls with horizon < 90 days are invalid and earn 0 XP regardless of outcome.*
 
 | # | Asset / Position | Opened | Resolves | Verdict | XP |
 |---|---|---|---|---|---|

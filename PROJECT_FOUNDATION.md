@@ -47,22 +47,29 @@ If the analytical framework produces consistent signal and the Databricks build 
 
 **Core belief:** Geopolitical events create systematic mispricings in financial markets. Most market participants react to geopolitics emotionally, late, and without a structural framework. A disciplined, data-informed approach to translating geopolitical signals into positions can generate consistent alpha — especially in commodities, currencies, and emerging market equities where geopolitical risk is most directly priced.
 
+**We are long-horizon investors, not traders. This is non-negotiable.**
+
+Geopolitical cycles unfold over years, not days. Our edge is structural frameworks applied with patience — not speed. Trading requires being right frequently; long-horizon investing requires being right *directionally* over a long enough horizon. Our analysis capability matches the second, not the first. Any call with a horizon shorter than 6 months should be treated with suspicion — we are probably reacting, not investing.
+
+The Databricks platform is a **thesis validation and signal detection engine** for long-horizon investors. It identifies when structural trends are strengthening or reversing — not when to buy tomorrow.
+
 **Our edge:**
 1. Systematic frameworks applied consistently (vs. emotional/reactive)
-2. Data infrastructure that processes signals faster than manual research
-3. Long-horizon thinking (geopolitical cycles are years, not weeks) that most traders ignore
+2. Long-horizon thinking (geopolitical cycles are years, not weeks) that most traders ignore
+3. Data infrastructure that validates structural theses in near-real-time
 4. Cross-domain synthesis: geopolitics + economics + market structure simultaneously
 
-**What we trade:**
+**What we invest in (6–18 month minimum horizon):**
 - Commodities: energy (oil, gas, uranium), critical minerals (copper, lithium, rare earths)
 - Currencies: EM FX most sensitive to geopolitical shifts
 - Equities: sector tilts (defense, energy, materials) and geographic tilts
 - Fixed income: sovereign spread dynamics driven by political risk
 
 **What we don't do:**
+- Trade around events (we don't have the latency advantage and don't want it)
 - Single-stock picking based on geopolitics alone
-- Short-term trading around events (we're not fast enough and don't want to be)
 - Leveraged positions without explicit risk reasoning
+- Call anything a thesis if it depends on being right in under 90 days
 
 ---
 
