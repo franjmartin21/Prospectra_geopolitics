@@ -11,7 +11,7 @@ resources:
       tasks:
         - task_key: gdelt-extract
           notebook_task:
-            notebook_path: ${workspace.file_path}/src/gdelt_narrative/extract/gdelt_extract.py
+            notebook_path: ${workspace.file_path}/src/gdelt_narrative/extract/gdelt_extract
             base_parameters:
               run_date: "{{job.start_time.iso_date}}"
           environment_key: default
@@ -27,7 +27,7 @@ resources:
       environments:
         - environment_key: default
           spec:
-            client: "1"
+            client: "2"
             dependencies:
               - requests
 

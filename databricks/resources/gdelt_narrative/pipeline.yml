@@ -10,11 +10,11 @@ resources:
 
       libraries:
         - notebook:
-            path: ${workspace.file_path}/src/gdelt_narrative/pipeline/bronze.py
+            path: ${workspace.file_path}/src/gdelt_narrative/pipeline/bronze
         - notebook:
-            path: ${workspace.file_path}/src/gdelt_narrative/pipeline/silver.py
+            path: ${workspace.file_path}/src/gdelt_narrative/pipeline/silver
         - notebook:
-            path: ${workspace.file_path}/src/gdelt_narrative/pipeline/gold.py
+            path: ${workspace.file_path}/src/gdelt_narrative/pipeline/gold
 
       configuration:
         pipelines.reset.allowed: "true"

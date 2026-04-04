@@ -75,5 +75,5 @@ def bronze_gkg_raw():
             .schema(GKG_SCHEMA)
             .load(f"{VOLUME_PATH}/**/*.gkg.csv")
             .withColumn("_ingest_timestamp", F.current_timestamp())
-            .withColumn("_source_file",      F.input_file_name())
+            .withColumn("_source_file",      F.col("_metadata.file_path"))
     )
