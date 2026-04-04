@@ -121,7 +121,7 @@ Senior Practitioner   Published analyst, portfolio manager, or policy advisor
 
 | # | Pipeline | Phase | Status | Git Commit | XP |
 |---|---|---|---|---|---|
-| B-01 | Geopolitical Event Feed (GDELT) | Phase 1 | NOT STARTED | — | 0 |
+| B-01 | Geopolitical Event Feed (GDELT) | Phase 1 | COMPLETED ✓ | ff4818a | 250 |
 | B-02 | Market Data Feed (Yahoo/FRED) | Phase 1 | NOT STARTED | — | 0 |
 | B-03 | News Sentiment Pipeline (GDELT GKG) | Phase 1 | NOT STARTED | — | 0 |
 | B-04 | Correlation Engine | Phase 1 | NOT STARTED | — | 0 |
@@ -130,7 +130,7 @@ Senior Practitioner   Published analyst, portfolio manager, or policy advisor
 | B-07 | Regime Change Detector | Phase 2 | LOCKED | — | — |
 | B-08 | Investment Signal Generator | Phase 2 | LOCKED | — | — |
 
-**BUILD XP:** 0 / ~1,600
+**BUILD XP:** 250 / ~1,600
 
 ---
 
@@ -140,8 +140,8 @@ Senior Practitioner   Published analyst, portfolio manager, or policy advisor
 |---|---|---|
 | LEARN | 0 | 1,320 |
 | INTEL | 0 | ~1,500 |
-| BUILD | 0 | ~1,600 |
-| **TOTAL** | **0** | **~4,420** |
+| BUILD | 250 | ~1,600 |
+| **TOTAL** | **250** | **~4,420** |
 
 ---
 
@@ -155,7 +155,7 @@ Senior Practitioner   Published analyst, portfolio manager, or policy advisor
 | Street Cred | First investment call logged | — |
 | Vindicated | First call resolves correct | — |
 | Honest Loser | Wrong call + filed post-mortem | — |
-| Builder | First Databricks pipeline deployed | — |
+| Builder | First Databricks pipeline deployed | Apr 4, 2026 ✓ |
 | Full Stack | At least 1 quest completed in all 3 tracks | — |
 | Halfway House | Reach 2,000 XP | — |
 | Thesis Holder | 5 INTEL quests resolved | — |
@@ -169,7 +169,7 @@ Senior Practitioner   Published analyst, portfolio manager, or policy advisor
 
 | Week | LEARN | INTEL | BUILD | Total | Running Total |
 |---|---|---|---|---|---|
-| Week 1 (Apr 4–11) | — | — | — | — | 0 |
+| Week 1 (Apr 4–11) | — | — | 250 | 250 | 250 |
 
 ---
 
