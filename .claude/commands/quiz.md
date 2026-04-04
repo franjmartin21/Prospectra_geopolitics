@@ -30,13 +30,36 @@ Deliver a quiz to verify mastery of the most recently completed lesson, then upd
    - Unlock the next lesson (change status from LOCKED to LOCKED — await `/lesson`)
    - Check if any achievements were unlocked (First Blood, Scholar, Perfect Score) and mark them
 
-7. If PASSED, update `PROJECT_FOUNDATION.md` curriculum table: mark the completed lesson as "Completed" with date.
+7. If PASSED, assess and update the Knowledge Benchmarking section of `PROGRESS.md`.
 
-8. Commit the changes: `git add PROGRESS.md PROJECT_FOUNDATION.md && git commit -m "Quest complete: L-0X [Lesson Title] — [Score]/5 quiz pass"`
+   **How to assess the two scales:**
 
-9. Report the result to Bolo clearly:
-   - Score, XP awarded, new total, current rank
-   - If passed: confirm next lesson is unlocked
-   - If failed: specify what to review and that retake is available
+   Use the number of lessons passed, the quiz score, and the quality of answers demonstrated (did the answers show application and synthesis, or just recall?) to make a holistic judgment. Be honest — do not flatter.
 
-Be a fair but uncompromising examiner. A 3/5 is a fail. Do not soften this.
+   *General Population Percentile guide:*
+   - 1–2 lessons passed, passing scores: Top 25% (most people have never systematically studied IR theory)
+   - 3–5 lessons passed, consistent 4–5/5: Top 10%
+   - 6–9 lessons passed, strong scores: Top 5%
+   - 10–12 lessons passed with high accuracy + investment call track record: Top 1–2%
+
+   *Academic Equivalent guide:*
+   - 1 lesson passed: Undergrad Year 1 (introductory IR theory exposure)
+   - 2–3 lessons passed: Undergrad Year 1–2 (frameworks + geography/economics intro)
+   - 4–6 lessons passed: Undergrad Year 2–3 (applied frameworks, regional dynamics)
+   - 7–9 lessons passed: Undergrad Final Year (synthesis across domains)
+   - 10–11 lessons passed + strong INTEL track record: Graduate (MA/MSc) equivalent
+   - 12 lessons passed + documented investment calls with right reasoning: Graduate equivalent with applied practitioner edge
+
+   Update the "Current" values in the benchmark table and add a new row to the Benchmark History table with today's date, lessons passed, percentile, academic level, and a brief note on what drove the assessment.
+
+8. If PASSED, update `PROJECT_FOUNDATION.md` curriculum table: mark the completed lesson as "Completed" with date.
+
+9. Commit the changes: `git add PROGRESS.md PROJECT_FOUNDATION.md && git commit -m "Quest complete: L-0X [Lesson Title] — [Score]/5 quiz pass"`
+
+10. Report the result to Bolo clearly:
+    - Score, XP awarded, new total, current rank
+    - **Knowledge benchmark update**: state the new population percentile and academic equivalent, and what specifically they need to do to move up the next level on each scale
+    - If passed: confirm next lesson is unlocked
+    - If failed: specify what to review and that retake is available
+
+Be a fair but uncompromising examiner. A 3/5 is a fail. Do not soften the benchmark assessment — Bolo asked for an honest calibration against people who study this seriously. Give it.

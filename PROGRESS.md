@@ -28,6 +28,55 @@
 
 ---
 
+## KNOWLEDGE BENCHMARKING
+
+*Updated after each quiz pass. Two independent scales: where you stand vs. the general population, and where you stand vs. people who study this formally.*
+
+### Scale 1 — General Population Percentile
+
+How your knowledge compares to the average adult who reads the news.
+
+```
+Bottom 50%   Aware of major world events. No analytical framework.
+Top 50%      Follows international news. Some historical context.
+Top 25%      Understands geopolitical actors and basic power dynamics.
+Top 10%      Applies frameworks. Connects events to economic outcomes.
+Top 5%       Systematic thinker. Tracks multi-year trends. Independent views.
+Top 1%       Publishable-quality analysis. Predictive, not just descriptive.
+```
+
+| Field | Current |
+|---|---|
+| **Population Percentile** | Not yet assessed |
+| **Basis** | No quizzes passed yet |
+
+### Scale 2 — Academic / Professional Equivalent
+
+How your knowledge compares to people who study this formally.
+
+```
+General Reader        Informed consumer of news and commentary
+Undergrad Year 1      Basic IR theory, historical survey knowledge
+Undergrad Year 2–3    Theoretical frameworks applied, regional specialization
+Undergrad Final Year  Comparative analysis, independent thesis capability
+Graduate (MA/MSc)     Literature-grounded, original synthesis, research methods
+PhD Candidate         Frontier of the field, novel contribution expected
+Senior Practitioner   Published analyst, portfolio manager, or policy advisor
+```
+
+| Field | Current |
+|---|---|
+| **Academic Equivalent** | General Reader |
+| **Basis** | No quizzes passed yet |
+
+### Benchmark History
+
+| Date | Lessons Passed | Population % | Academic Level | Notes |
+|---|---|---|---|---|
+| Apr 4, 2026 | 0 | — | General Reader | Baseline |
+
+---
+
 ## MISSION TRACKS
 
 ### TRACK 1 — LEARN (Max: 1,320 XP)
