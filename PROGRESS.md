@@ -86,19 +86,20 @@ Senior Practitioner   Published analyst, portfolio manager, or policy advisor
 | # | Lesson | Status | Quiz Score | XP |
 |---|---|---|---|---|
 | L-01 | Foundations of Geopolitical Analysis | OPEN — Quiz Pending | — | 0 |
-| L-02 | Geography as Destiny | LOCKED | — | — |
-| L-03 | The Dollar System & Bretton Woods Legacy | LOCKED | — | — |
-| L-04 | Energy Geopolitics | LOCKED | — | — |
-| L-05 | Critical Minerals & Energy Transition | LOCKED | — | — |
-| L-06 | Trade Wars & Supply Chain Weaponization | LOCKED | — | — |
-| L-07 | China's Rise & the Multipolar Transition | LOCKED | — | — |
-| L-08 | European Fragmentation & NATO Dynamics | LOCKED | — | — |
-| L-09 | Emerging Market Political Risk | LOCKED | — | — |
-| L-10 | Technology & Semiconductor Geopolitics | LOCKED | — | — |
-| L-11 | Geopolitical Frameworks for Portfolio Construction | LOCKED | — | — |
-| L-12 | Reading Central Banks Geopolitically | LOCKED | — | — |
+| L-02 | Geography as Destiny | OPEN — Quiz Pending | — | 0 |
+| L-03 | The Dollar System & Bretton Woods Legacy | OPEN — Quiz Pending | — | 0 |
+| L-04 | Energy Geopolitics | OPEN — Quiz Pending | — | 0 |
+| L-05 | Critical Minerals & Energy Transition | OPEN — Quiz Pending | — | 0 |
+| L-06 | Trade Wars & Supply Chain Weaponization | OPEN — Quiz Pending | — | 0 |
+| L-07 | China's Rise & the Multipolar Transition | OPEN — Quiz Pending | — | 0 |
+| L-08 | European Fragmentation & NATO Dynamics | OPEN — Quiz Pending | — | 0 |
+| L-09 | Emerging Market Political Risk | OPEN — Quiz Pending | — | 0 |
+| L-10 | Technology & Semiconductor Geopolitics | OPEN — Quiz Pending | — | 0 |
+| L-11 | Geopolitical Frameworks for Portfolio Construction | OPEN — Quiz Pending | — | 0 |
+| L-12 | Reading Central Banks Geopolitically | OPEN — Quiz Pending | — | 0 |
 
 **LEARN XP:** 0 / 1,320
+**NOTE:** All 12 lessons delivered as of Apr 23, 2026. Quizzes are the only gating mechanism remaining for LEARN XP.
 
 ---
 
@@ -174,5 +175,5 @@ Senior Practitioner   Published analyst, portfolio manager, or policy advisor
 ---
 
 *Scoreboard maintained by CEO. All completions require objective verification.*
-*Quiz for L-01 available now — run `/quiz` to attempt.*
-*Next lesson (L-02: Geography as Destiny) LOCKED until L-01 quiz passed.*
+*All 12 lessons delivered. Run `/quiz` to begin clearing the backlog — start with L-01.*
+*Quiz cadence target: 2 per session until all 12 are cleared. LEARN track is the critical bottleneck.*
