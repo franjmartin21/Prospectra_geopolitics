@@ -51,25 +51,23 @@ Beyond the immediate crisis, the 2026 conflict has accelerated three structural 
 
 **Shift 1: The US-Saudi Axis Deepens**
 
-Saudi Arabia is no longer a reluctant US partner hedging toward China — it is a strategic anchor of US regional policy. The PIF's 2026-2030 strategy, unveiled in February, commits massive Saudi capital to AI, critical minerals, and domestic industrial development — all domains where the US-Saudi relationship is commercially essential. Saudi investment commitments in the US now span energy systems, AI infrastructure, and advanced manufacturing.
+Saudi Arabia is no longer a reluctant US partner hedging toward China — it is a strategic anchor of US regional policy. The PIF's 2026-2030 strategy commits massive Saudi capital to AI, critical minerals, and domestic industrial development — all domains where the US-Saudi relationship is commercially essential.
 
-The Abraham Accords era is effectively over as a diplomatic project, but Saudi Arabia remains open to a grand bargain: normalization with Israel in exchange for a credible Palestinian state pathway plus a US-Saudi mutual defense treaty. The conflict has paradoxically *increased* Saudi leverage — the US needs Saudi production cooperation more than ever.
+The Abraham Accords era is effectively over as a diplomatic project, but Saudi Arabia remains open to a grand bargain: normalization with Israel in exchange for a credible Palestinian state pathway plus a US-Saudi mutual defense treaty. The conflict has paradoxically *increased* Saudi leverage.
 
 **Shift 2: Iran's Strategic Bankruptcy**
 
 Iran entered 2026 with its deterrence network degraded and its economy under maximum pressure from sanctions and the collapse of proxy revenues. The Hormuz gambit was a last-resort escalation — costly, unsustainable, and ultimately self-defeating. A post-conflict Iran faces: deeper sanctions, physical infrastructure damage, loss of its forward deterrence positions, and a domestic legitimacy crisis.
 
-**Investment implication:** Iranian oil supply remains effectively zero for the foreseeable future. Any future Iranian nuclear deal or sanctions relief is now a multi-year story, not a near-term catalyst. Do not model Iranian barrels returning to markets in any 12-month investment thesis.
+**Investment implication:** Iranian oil supply remains effectively zero for the foreseeable future. Do not model Iranian barrels returning to markets in any 12-month investment thesis.
 
 **Shift 3: Gulf Capital Pivots to Asia (and AI)**
 
-Asia consumes the majority of Middle Eastern oil. As that trade relationship deepens, Gulf sovereign wealth capital follows demand — flowing into Chinese technology firms, Indian consumer markets, Southeast Asian infrastructure, and the battery supply chains needed for energy transition. The PIF, ADIA (Abu Dhabi), and QIA (Qatar) are becoming the largest single pool of non-Western sovereign capital actively shaping the technology and energy transition sectors.
+Asia consumes the majority of Middle Eastern oil. As that trade relationship deepens, Gulf sovereign wealth capital follows demand — flowing into Chinese technology firms, Indian consumer markets, Southeast Asian infrastructure, and battery supply chains. PIF, ADIA (Abu Dhabi), and QIA (Qatar) are becoming the largest single pool of non-Western sovereign capital actively shaping technology and energy transition sectors.
 
 ---
 
 ## ENERGY CHOKEPOINTS: THE INVESTMENT FRAMEWORK
-
-The Hormuz crisis illustrates a recurring investment pattern that has played out in every major energy disruption since 1973:
 
 ### The Chokepoint Premium Model
 
@@ -78,36 +76,30 @@ When a major energy chokepoint is threatened, markets don't just price the curre
 **The pattern:**
 1. Chokepoint threat/closure → immediate oil spike (fear premium)
 2. Alternative supply mobilization (US SPR, non-OPEC producers) → partial price relief
-3. Geopolitical uncertainty premium persists even after physical flows resume → prices settle above pre-crisis but below peak
+3. Geopolitical uncertainty premium persists even after physical flows resume
 4. Long-term: accelerated investment in supply alternatives and energy transition
 
-**The 2026 version is following this pattern:**
-- Spike: $119+ Brent
-- US SPR releases and Saudi production cooperation provided partial relief
-- Structural uncertainty premium: Brent is unlikely to return to sub-$80 on any sustained basis until Hormuz is demonstrably, durably secure
-- Acceleration: the crisis has put energy security (not just energy transition) at the top of every major economy's policy agenda
+**The 2026 version is following this pattern exactly.** Brent at $108 still reflects substantial crisis premium above the structural floor.
 
 ### What the Market Is Mispricing
 
-**Near-term mispricing #1:** Asian LNG importers' vulnerability. ASEAN's energy import bill is running $3.36 billion/month above 2026 budget expectations. This is a sovereign balance-of-payments stress that has not been fully priced into EM bond spreads for Southeast Asia.
+**Mispricing #1:** Asian LNG importers' vulnerability. ASEAN's energy import bill is running $3.36 billion/month above 2026 budget expectations. Not fully priced into EM bond spreads for Southeast Asia.
 
-**Near-term mispricing #2:** The renewables acceleration. Countries with high renewable penetration (Spain, Portugal, Scandinavian nations) have been materially insulated from this crisis. The market is pricing renewables as a "climate" investment — it should be pricing them as **energy security** investments, which attracts a different (more durable, policy-backed) investor base and a higher valuation multiple.
+**Mispricing #2:** The renewables acceleration. Countries with high renewable penetration have been materially insulated from this crisis. The market prices renewables as a "climate" investment — it should price them as **energy security** investments.
 
-**Near-term mispricing #3:** Gulf sovereign wealth as an emerging tech kingmaker. PIF, ADIA, and QIA collectively manage over $2.5 trillion. Their coordinated pivot to AI infrastructure, critical minerals, and Asian consumer exposure is creating demand for assets most Western investors are underweighting.
+**Mispricing #3:** Gulf sovereign wealth as emerging tech kingmaker. PIF, ADIA, and QIA collectively manage over $2.5 trillion. Their coordinated pivot to AI infrastructure and critical minerals is creating demand for assets most Western investors are underweighting.
 
 ---
 
-## HISTORICAL GROUNDING: THE THREE ENERGY SHOCKS THAT SHAPED MODERN MARKETS
+## HISTORICAL GROUNDING: THREE ENERGY SHOCKS
 
-To contextualize 2026, you need to understand its predecessors:
+**1973 Arab Oil Embargo:** First modern energy crisis. Quadrupled oil prices. Created the IEA and SPR systems.
 
-**1973 Arab Oil Embargo:** OPEC's political use of oil as a weapon against US support for Israel. Triggered the first modern energy crisis, quadrupled oil prices, and permanently broke the cheap energy assumption that had underpinned postwar Western growth. Created the IEA, SPR systems, and the first serious push toward energy efficiency.
+**1979 Iranian Revolution:** Removed ~4 million b/d instantly. Accelerated non-OPEC production development (North Sea, Alaska).
 
-**1979 Iranian Revolution:** Removed ~4 million b/d of Iranian production instantly and triggered the second oil shock. Revealed that political instability in a single state could destabilize global energy markets. Accelerated non-OPEC production development (North Sea, Alaska) and began the long arc of US energy independence that culminated in the shale revolution.
+**1990-91 Gulf War:** Demonstrated that military force could both create and resolve energy disruptions.
 
-**1990-91 Gulf War:** Iraq's invasion of Kuwait and the coalition response. Brent briefly exceeded $40 (equivalent to ~$90 in 2024 dollars). Demonstrated that military force could both create and resolve energy disruptions — and that the US would use military power to protect Gulf oil flows.
-
-**2026:** The first *successful* Hormuz closure in the modern era. Unlike previous threats, it actually happened. This changes the risk calculus permanently — what was a theoretical risk has been demonstrated as a real one. Expect Hormuz closure risk to be priced into energy markets for years.
+**2026:** The first *successful* Hormuz closure in the modern era. This changes the risk calculus permanently — what was theoretical has been demonstrated as real.
 
 ---
 
@@ -116,72 +108,58 @@ To contextualize 2026, you need to understand its predecessors:
 ### Asset Class Directional Views (12-18 month horizon)
 
 **Energy Commodities — BULLISH (structural)**
+Brent has a new structural floor. Combination of Hormuz precedent, Iranian supply offline, and OPEC+ capacity constraints means the global supply buffer is thinner than at any point since 2008. $85-100 Brent base case even after acute crisis premium fades.
 
-Brent crude has a new structural floor. The combination of Hormuz closure precedent, Iranian supply permanently offline, and OPEC+ capacity constraints means the global supply buffer is thinner than at any point since 2008. We are long energy with a $85-100 Brent base case even after the acute crisis premium fades. The risk is to the upside (second Hormuz incident), not downside.
+**LNG — BULLISH**
+Quatar force majeure reactivated European dash for LNG. US LNG export capacity fully contracted at premium pricing. Australian LNG irreplaceable for Japan and Korea.
 
-*Specific thesis:* Canadian oil sands and US Permian Basin producers are structural beneficiaries — they are geographically insulated from Middle East disruption and produce into a tight market. Consider exposure to integrated producers with Permian or Canadian heavy oil assets.
-
-**LNG — BULLISH (European and Asian terminals)**
-
-The Qatar force majeure has reactivated the European dash for LNG that began in 2022. US LNG export capacity (Sabine Pass, Corpus Christi, Plaquemines) is fully contracted and at premium pricing. Australian LNG (Gorgon, Ichthys) has become an irreplaceable supply source for Japan and Korea. Companies with long-term LNG offtake agreements or liquefaction capacity are positioned well.
-
-**Renewables Infrastructure — BULLISH (policy-driven acceleration)**
-
-The energy security framing has changed the political economy of renewables in ways that the climate framing never fully achieved. European governments are now approving solar, wind, and battery storage projects at wartime speed. The investment thesis: this is not an ESG trade — it is a **national security** trade. Utilities and infrastructure funds with European renewable project pipelines deserve a premium.
+**Renewables Infrastructure — BULLISH (policy-driven)**
+Energy security framing has changed the political economy of renewables. European governments approving projects at wartime speed. This is a **national security** trade, not an ESG trade.
 
 **Defense — BULLISH (sustained)**
+Gulf states spending at record levels on missile defense. US and European defense primes have multi-year order backlogs.
 
-The Middle East crisis has validated the NATO defense spending push and triggered emergency procurement across the Gulf states. Gulf states are spending at record levels on missile defense (particularly after Houthi and Iranian ballistic missile exchanges). US and European defense primes (Lockheed, RTX, Rheinmetall, Leonardo) have multi-year order backlogs. The defense supercycle is not over.
-
-**Asian EM Equities — MIXED / SELECTIVE**
-
-Oil-importing Asian economies (India, ASEAN) face a significant terms-of-trade shock. ASEAN's import bill surge is a real headwind. However:
-- India's structural growth story is intact; it is absorbing the oil shock better than expected due to its domestic renewables buildout and partial Russian oil access
-- ASEAN: differentiate between energy importers (Thailand, Philippines — negative) and exporters (Malaysia, Indonesia — positive)
-- Japan and Korea face the greatest LNG vulnerability but are most aggressively accelerating nuclear restarts and renewables deployment
+**Asian EM Equities — MIXED**
+- India: structural story intact despite oil shock
+- ASEAN: differentiate energy exporters (Malaysia, Indonesia — positive) from importers (Thailand, Philippines — negative)
+- Japan/Korea: most aggressively accelerating nuclear restarts and renewables deployment
 
 **Gulf Sovereign Debt — NEUTRAL to SLIGHTLY BEARISH**
+Paradox: higher oil revenues but higher security spending and widened regional risk premium. Not a compelling risk-reward at current spreads.
 
-Paradox: Saudi Arabia and UAE are benefiting from high oil prices, but the regional geopolitical risk premium has widened Gulf sovereign spreads. Saudi Arabia in particular is walking a tightrope — higher oil revenues but higher security spending, infrastructure damage risk, and the PIF's aggressive capital deployment creating fiscal complexity. Not a compelling risk-reward at current spreads.
-
-**US Dollar — BULLISH (flight to safety)**
-
-Energy crises historically strengthen the dollar. The petrodollar system — where oil is priced in dollars, recycled into US Treasuries — is under stress from de-dollarization trends but remains intact. A prolonged high-oil-price environment is net-dollar-positive: higher oil revenues flow into dollar-denominated assets, and risk-off sentiment increases dollar demand globally.
+**US Dollar — BULLISH**
+Energy crises historically strengthen the dollar. Petrodollar system remains intact despite de-dollarization trends.
 
 ---
 
 ## SIGNAL vs. NOISE
 
-**Signal:** The Hormuz closure precedent. This is a permanent addition to geopolitical risk pricing. Every future energy investment thesis must now include Hormuz disruption as a scenario, not a tail risk.
+**Signal:** Hormuz closure precedent — a permanent addition to geopolitical risk pricing.
 
-**Signal:** Gulf capital's pivot to AI and critical minerals. This is structural and multi-year — $2.5 trillion of sovereign wealth doesn't change direction on a quarterly basis.
+**Signal:** Gulf capital's pivot to AI and critical minerals — $2.5 trillion doesn't change direction quarterly.
 
-**Signal:** European energy security investment as a policy priority. This will generate decade-long regulatory tailwinds for European renewable infrastructure.
+**Signal:** European energy security investment as policy priority — decade-long regulatory tailwinds.
 
-**Noise:** Day-to-day oil price volatility during the crisis. The $5-10 swings around negotiations and military developments are noise. The $85-100 structural floor is the signal.
+**Noise:** Day-to-day oil price volatility during negotiations. The $85-100 structural floor is the signal.
 
-**Noise:** OPEC+ meeting communiqués. With the UAE exit and Iran offline, OPEC+ as a unified price management mechanism is effectively broken. Don't trade on OPEC+ headlines in the current environment.
+**Noise:** OPEC+ meeting communiqués. With UAE exit and Iran offline, OPEC+ as a unified price mechanism is effectively broken.
 
 ---
 
 ## DATABRICKS ANGLE
 
-**Lesson 35 is uniquely rich for the Databricks build. Three specific pipeline ideas:**
-
 ### Pipeline 1: Chokepoint Risk Monitor
-Build a real-time GDELT event monitor that tracks conflict events in the following coordinates: Strait of Hormuz (22°N-26°N, 56°E-58°E), Bab-el-Mandeb (12°N-13°N, 43°E-44°E), Suez Canal corridor. Flag when event density and tone scores cross thresholds — this would have given a 2-3 week advance signal before the Hormuz closure.
+Real-time GDELT event monitor tracking conflict events in Hormuz (22°N-26°N, 56°E-58°E), Bab-el-Mandeb (12°N-13°N, 43°E-44°E), and Suez corridor bounding boxes. Flag when event density and tone scores cross thresholds. Would have given 2-3 week advance signal before Hormuz closure.
 
-**Dataset:** GDELT Events table (BigQuery public dataset), filtered by `ActionGeo_Lat/Long` bounding boxes around each chokepoint.
+**Dataset:** GDELT Events table (BigQuery public dataset), filtered by `ActionGeo_Lat/Long` bounding boxes.
 
 ### Pipeline 2: Oil Price Regime Detector
-Build a Hidden Markov Model (HMM) or simple threshold-based regime classifier on Brent crude daily prices. Label regimes: "normal" (<$80), "elevated" ($80-100), "crisis" (>$100). Calculate the Hormuz threat event density in each regime — validate the hypothesis that GDELT conflict signals precede regime transitions by 2-4 weeks.
+Hidden Markov Model or threshold classifier on Brent crude daily prices. Label regimes: "normal" (<$80), "elevated" ($80-100), "crisis" (>$100). Calculate Hormuz threat event density in each regime — validate hypothesis that GDELT conflict signals precede regime transitions by 2-4 weeks.
 
-**Dataset:** FRED DCOILBRENTEU (daily Brent crude) + GDELT Middle East event counts.
+**Dataset:** FRED DCOILBRENTEU + GDELT Middle East event counts.
 
 ### Pipeline 3: Gulf SWF Investment Tracker
-Scrape and structure public announcements from PIF, ADIA, QIA into a Databricks Delta table. Tag by sector (AI, renewables, minerals, defense). Track the cadence and size of commitments over time. This is a leading indicator for capital flows into sectors before they show up in fund flows data.
-
-**Dataset:** PIF/ADIA/QIA press releases (web scrape), supplemented by Bloomberg Alternative Data if available.
+Structure public PIF/ADIA/QIA announcements into a Delta table. Tag by sector (AI, renewables, minerals, defense). Track cadence and size of commitments as leading indicator for capital flows.
 
 ---
 
@@ -197,14 +175,14 @@ Scrape and structure public announcements from PIF, ADIA, QIA into a Databricks 
 
 ## MARKET CONNECTION
 
-The core investment framework from today's lesson: **Energy security is the new climate.** For the past decade, the primary driver of energy policy investment was decarbonization. For the next decade, the primary driver is supply security — reducing dependence on unstable transit routes and hostile producers.
+**Energy security is the new climate.** For the past decade, the primary driver of energy policy investment was decarbonization. For the next decade, it is supply security.
 
 This shift benefits:
 - Geographically diversified energy producers (US, Canada, Australia, Norway)
 - Renewable energy infrastructure with domestic supply chains
 - LNG liquefaction capacity in politically stable jurisdictions
-- Nuclear power (the ultimate energy security asset — zero import dependency)
-- Defense companies supplying the Gulf states rebuilding their security architecture
+- Nuclear power (the ultimate energy security asset)
+- Defense companies supplying Gulf states rebuilding security architecture
 
 It disadvantages:
 - Oil importers with high Hormuz dependency and no domestic alternatives (Japan, Korea, ASEAN)
@@ -215,9 +193,9 @@ It disadvantages:
 
 ## QUESTIONS FOR NEXT SESSION (SPACED REPETITION HOOK)
 
-- Lesson 4 (Energy Geopolitics) introduced the concept of the resource curse. How does the 2026 crisis interact with this framework — are Gulf states more or less vulnerable to the resource curse dynamic when oil prices are permanently elevated?
-- Lesson 14 (Sanctions Architecture) covered financial warfare. Iran is now the most sanctioned economy in history. What does the post-crisis sanctions architecture look like, and what does it mean for the case study of financial warfare as a policy tool?
-- Lesson 32 (Maritime Chokepoints) covered the general framework. Today applied it to Hormuz specifically. What is the comparative analysis: how does Hormuz compare to Bab-el-Mandeb (Red Sea/Suez corridor) and the South China Sea in terms of investment risk relevance?
+- Lesson 4 (Energy Geopolitics) introduced the resource curse. How does the 2026 crisis interact with this — are Gulf states more or less vulnerable when oil prices are permanently elevated?
+- Lesson 14 (Sanctions Architecture) covered financial warfare. What does the post-crisis Iran sanctions architecture look like?
+- Lesson 32 (Maritime Chokepoints) covered the general framework. Compare Hormuz to Bab-el-Mandeb and the South China Sea in terms of investment risk relevance.
 
 ---
 
