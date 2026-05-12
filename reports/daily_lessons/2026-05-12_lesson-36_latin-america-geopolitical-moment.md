@@ -221,11 +221,4 @@ Countries without leverage (Bolivia) or with institutional degradation (Venezuel
 
 ---
 
-## 10. Next Lesson Preview
-
-Lesson 37 will cover **The Geopolitics of Ports and Logistics Infrastructure** — how control of physical chokepoints (ports, rail, roads) translates into economic and strategic leverage. This connects directly to China's BRI port investments in LATAM (Chancay in Peru), the Panama Canal, and the broader contest for logistical chokepoints. It will integrate with the maritime chokepoints lesson (Lesson 32) and the LATAM lesson to form a complete infrastructure picture.
-
----
-
 *Lesson saved: 2026-05-12 | CEO — Prospectra Geopolitics & Investment Project*
-*Next: Lesson 37 — Geopolitics of Ports and Logistics Infrastructure*

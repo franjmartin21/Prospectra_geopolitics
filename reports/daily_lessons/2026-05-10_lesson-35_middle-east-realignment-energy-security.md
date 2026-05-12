@@ -111,7 +111,7 @@ When a major energy chokepoint is threatened, markets don't just price the curre
 Brent has a new structural floor. Combination of Hormuz precedent, Iranian supply offline, and OPEC+ capacity constraints means the global supply buffer is thinner than at any point since 2008. $85-100 Brent base case even after acute crisis premium fades.
 
 **LNG — BULLISH**
-Quatar force majeure reactivated European dash for LNG. US LNG export capacity fully contracted at premium pricing. Australian LNG irreplaceable for Japan and Korea.
+Qatar force majeure reactivated European dash for LNG. US LNG export capacity fully contracted at premium pricing. Australian LNG irreplaceable for Japan and Korea.
 
 **Renewables Infrastructure — BULLISH (policy-driven)**
 Energy security framing has changed the political economy of renewables. European governments approving projects at wartime speed. This is a **national security** trade, not an ESG trade.
