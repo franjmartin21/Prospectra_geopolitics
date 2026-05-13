@@ -10,8 +10,6 @@
 
 ## Opening Framing Question
 
-Here is the question I want you to sit with before we begin:
-
 > *Latin America has been the "backyard" of one superpower for 200 years. Now a second superpower is offering an alternative patron — with money, infrastructure, and no lectures about democracy. Why haven't Latin American countries simply taken the better deal? And what does their hesitation tell you about how geopolitical alignment actually works?*
 
 Hold that question. We'll come back to it.
@@ -164,8 +162,6 @@ This creates a correlation structure worth modeling: when China growth disappear
 ## 6. Databricks Angle
 
 **Key Pipeline: LATAM Political Risk + Commodity Signal Engine**
-
-This lesson maps to one of the most buildable and commercially differentiated projects in the curriculum:
 
 **Dataset 1:** GDELT event data filtered by LATAM country pairs — extract diplomatic tension scores (US-Brazil, China-Chile, etc.) and correlate with asset price moves (CLP, copper futures, BCH).
 
